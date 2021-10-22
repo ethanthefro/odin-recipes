@@ -1,0 +1,35 @@
+p, li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a3a3a;
+}
+
+.main-header {
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+}
+
+.img-wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.desc-wrapper {
+    margin: 0 auto;
+    text-align: center;
+    background-color: gray;
+}
+
+.desc-wrapper p{
+    color: white;
+}
+
+.body-wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.food-photo {
+    width: 100%;
+    height: auto;
+}
